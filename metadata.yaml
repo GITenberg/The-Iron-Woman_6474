@@ -1,0 +1,38 @@
+_repo: The-Iron-Woman_6474
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Deland, Margaret Wade Campbell
+    alias: Campbell, Margaretta Wade
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '888'
+    url: http://www.gutenberg.org/2009/agents/888
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Deland
+description: "The Iron Woman is a novel of manners by the American writer Margaret\
+  \ Deland (1857–1945) set in the 19th century fictional locale of Mercer, an Ohio\
+  \ River community that represents Pittsburgh, Pennsylvania.\nThe novel tells the\
+  \ story of Mrs. Maitland, a leathery old widow who owns and operates an iron mill.\
+  \ Her devotion to a Puritanical work ethic alienates her son Blair, who though he\
+  \ stands to inherit the business, is headstrong and in love with Elizabeth Ferguson,\
+  \ a match Mrs. Maitland disapproves of.\nIt was first published in installments\
+  \ in Harper's Monthly from November 1910 through October 1911.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6474'
+  wikidata: Q7742628
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Iron Woman
+url: http://www.gutenberg.org/ebooks/6474
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Iron_Woman_(novel)
