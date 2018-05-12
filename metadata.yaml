@@ -1,5 +1,8 @@
 _repo: The-Iron-Woman_6474
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Deland, Margaret Wade Campbell
@@ -18,6 +21,8 @@ description: "The Iron Woman is a novel of manners by the American writer Margar
   \ a match Mrs. Maitland disapproves of.\nIt was first published in installments\
   \ in Harper's Monthly from November 1910 through October 1911.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6474#The-Iron-Woman
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
